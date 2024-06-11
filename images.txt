@@ -8,7 +8,6 @@ mysql/mysql-server
 linuxserver/jackett
 linuxserver/radarr
 messense/aliyundrive-webdav
-cloudnas/clouddrive
 portainer/portainer-ce
 linuxserver/transmission
 linuxserver/emby
