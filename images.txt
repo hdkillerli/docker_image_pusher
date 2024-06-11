@@ -3,3 +3,27 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 alpine
+linuxserver/qbittorrent
+mysql/mysql-server
+linuxserver/jackett
+linuxserver/radarr
+messense/aliyundrive-webdav
+cloudnas/clouddrive
+portainer/portainer-ce
+linuxserver/transmission
+linuxserver/emby
+whyour/qinglong
+plexinc/pms-docker
+jxxghp/nas-tools
+johngong/baidunetdisk:latest
+sbwml/alist
+siomiz/softethervpn
+vaultwarden/server
+jc21/nginx-proxy-manager
+weejewel/wg-easy
+onething1/wxedge
+odoo
+hslr/sun-panel
+surveyking/surveyking
+xridge/iperf3
+rustdesk/rustdesk-server
