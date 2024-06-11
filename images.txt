@@ -1,12 +1,2 @@
-johngong/baidunetdisk:latest
-sbwml/alist
-siomiz/softethervpn
-vaultwarden/server
-jc21/nginx-proxy-manager
-weejewel/wg-easy
-onething1/wxedge
-odoo
-hslr/sun-panel
-surveyking/surveyking
-xridge/iperf3
-rustdesk/rustdesk-server
+cloudnas/clouddrive2-unstable
+nastool/nas-tools
