@@ -1,1 +1,2 @@
-helloz/onenav
+portainer/agent:2.13.1
+portainer/agent
