@@ -1,2 +1,1 @@
-portainer/agent:2.13.1
-portainer/agent
+linux_arm64_xiaoyaliu_alist:hostmode
