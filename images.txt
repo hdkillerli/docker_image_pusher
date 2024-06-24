@@ -1,4 +1,1 @@
-teslamate/teslamate:latest
-postgres:13
-teslamate/grafana:latest
-eclipse-mosquitto:2
+jellyfin/jellyfin
