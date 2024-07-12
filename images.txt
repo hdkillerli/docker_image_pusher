@@ -1,1 +1,1 @@
-jellyfin/jellyfin
+dbeaver/cloudbeaver-ee
