@@ -1,1 +1,4 @@
-dbeaver/cloudbeaver-ee
+teslamate/teslamate:latest
+postgres:16
+eclipse-mosquitto:2
+teslamate/grafana:latest
