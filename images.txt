@@ -1,4 +1,1 @@
-teslamate/teslamate:latest
-postgres:16
-eclipse-mosquitto:2
-teslamate/grafana:latest
+grafana/grafana-enterprise
