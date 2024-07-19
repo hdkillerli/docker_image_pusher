@@ -1,1 +1,1 @@
-screego/server
+l11r/screego
