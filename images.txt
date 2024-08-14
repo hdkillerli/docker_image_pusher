@@ -1,1 +1,1 @@
-cloudnas/clouddrive2
+homeassistant/home-assistant:latest
