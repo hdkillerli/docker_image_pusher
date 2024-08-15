@@ -1,2 +1,1 @@
-cloudflare/cloudflared:latest
-cloudflare/cloudflared:latest tunnel
+deluan/navidrome:latest
