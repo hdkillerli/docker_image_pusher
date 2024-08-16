@@ -1,1 +1,1 @@
-deluan/navidrome:latest
+portainer/agent:2.13.1
