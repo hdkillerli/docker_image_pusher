@@ -1,1 +1,1 @@
-portainer/agent:2.13.1
+amilys/embyserver
