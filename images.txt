@@ -1,1 +1,1 @@
-oldiy/chrome-novnc
+kasmweb/chrome
