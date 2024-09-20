@@ -1,1 +1,1 @@
-moelin/1panel:latest
+openresty/openresty
