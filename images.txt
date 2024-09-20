@@ -1,1 +1,1 @@
-openresty/openresty:1.21.4.3-3-3-focal
+openresty/openresty:1.21.4.1-0-focal
