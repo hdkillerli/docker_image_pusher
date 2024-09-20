@@ -1,1 +1,1 @@
-linuxserver/duplicati
+moelin/1panel:latest
