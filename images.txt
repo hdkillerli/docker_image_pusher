@@ -1,1 +1,2 @@
-1panel/openresty:1.21.4.3-3-3-focal
+snowdreamtech/frps
+snowdreamtech/frpc
