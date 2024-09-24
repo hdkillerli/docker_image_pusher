@@ -1,2 +1,1 @@
-snowdreamtech/frps
-snowdreamtech/frpc
+xhofe/alist
