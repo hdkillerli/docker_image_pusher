@@ -1,2 +1,1 @@
-altran1502/immich-server:v1.117.0
-altran1502/immich-machine-learning:v1.117.0
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
