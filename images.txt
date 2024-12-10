@@ -1,1 +1,1 @@
-adminer
+dpanel
