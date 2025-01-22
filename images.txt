@@ -1,1 +1,1 @@
-shellspec/openwrt
+sulinggg/openwrt:x86_64
