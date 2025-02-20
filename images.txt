@@ -1,1 +1,1 @@
-sulinggg/openwrt:x86_64
+auska/docker-aria2
