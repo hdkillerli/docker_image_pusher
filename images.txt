@@ -1,1 +1,1 @@
-auska/docker-aria2
+sun-panel
