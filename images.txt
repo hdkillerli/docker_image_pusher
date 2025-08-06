@@ -1,1 +1,1 @@
-sun-panel
+hslr/sun-panel
