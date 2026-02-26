@@ -1,1 +1,1 @@
-helloz/onenav
+portainer_edge_agent:2.19.5
