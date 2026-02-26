@@ -1,1 +1,1 @@
-portainer/agent:2.19.5
+portainer/portainer
