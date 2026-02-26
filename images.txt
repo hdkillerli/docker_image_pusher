@@ -1,1 +1,1 @@
-portainer_edge_agent:2.19.5
+portainer/agent:2.19.5
