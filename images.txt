@@ -1,1 +1,1 @@
-qbittorrent/qbittorrent:latest
+lscr.io/linuxserver/qbittorrent:latest
