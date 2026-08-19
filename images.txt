@@ -1,1 +1,1 @@
-vaultwarden/server
+docker.io/vaultwarden/server
