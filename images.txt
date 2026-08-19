@@ -1,2 +1,1 @@
-vaultwarden/server
- --platform = linux/amd64 vaultwarden
+vaultwarden/server|vaultwarden
