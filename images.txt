@@ -1,2 +1,2 @@
 vaultwarden/server
- --name=server1
+ -name = server1
