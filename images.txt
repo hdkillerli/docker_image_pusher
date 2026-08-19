@@ -1,1 +1,1 @@
-vaultwarden/server | vaultwarden2
+vaultwarden/server
